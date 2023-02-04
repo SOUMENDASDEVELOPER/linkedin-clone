@@ -1,1 +1,1 @@
-# linkedin-clone
+# Static linkedin-clone
